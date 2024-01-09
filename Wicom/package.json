@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@hmscore/react-native-hms-nearby": "^6.2.0-302",
+    "@react-native-community/slider": "^4.4.2",
+    "@react-navigation/native-stack": "^6.9.13",
+    "react-hook-form": "^7.45.4",
+    "react-native-modal": "^13.0.1",
+    "react-native-network-info": "^5.2.1",
+    "socket.io": "^4.7.2"
+  }
+}
